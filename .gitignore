@@ -3,5 +3,5 @@ target
 .snfoundry_cache
 
 # Cairo Working Files
-src/counter.cairo
-src/ownable.cairo
+# src/counter.cairo
+# src/ownable.cairo
